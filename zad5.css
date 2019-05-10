@@ -1,0 +1,247 @@
+body
+{
+	/* ========================================================
+ This pattern is downloaded from www.subtlepatterns.com 
+ If you need more, that's where to get'em.
+ ======================================================= */
+ 
+	background-image: url("img/ep_naturalblack.png");
+	color: #ffffff;
+    margin: 0 !important;
+	font-size: 23px;
+	font-family: 'Open Sans Condensed', sans-serif;
+ 
+}
+
+.wrapper
+{
+	width: 100%;
+}
+
+.header
+{
+	width: 100%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	
+}
+
+#hello
+{
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.logo
+{
+	width: 500px;
+	font-size: 49px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom:12px;
+	padding-top:15px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-family: 'Julius Sans One', sans-serif;
+
+	
+}
+
+
+.logo a
+{
+	color: #ffffff;
+	text-decoration: none;
+	
+}
+
+.logo a:hover
+{
+	color: white;
+	text-shadow: 2px 2px 0 #E0FF2E;
+	
+}
+
+.cytat
+{
+	width: 500px;
+	font-size:30px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom:15px;
+	font-family: 'Great Vibes', cursive;
+	
+}
+
+.cytat a
+{
+	text-decoration: none;
+	color: white;
+	
+	
+}
+
+.cytat a:hover
+{
+	text-decoration: none;
+}
+
+.nav
+{
+	
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 10px;
+	width:100%;
+	padding: 10px 0;
+	background-color: #96646E;
+	text-align: center;
+	border-top: 1px solid #6C323D;
+	border-bottom: 1px solid #6C323D;
+
+	
+}
+
+ol
+{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-size: 20px;
+	height:35px;
+	line-height: 200%;
+	display: inline-block;
+	
+
+}
+
+ol a
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+}
+
+ol > li
+{
+	float: left;
+	width: 150px;
+    height:40px;
+	border-right: 1px dotted #6C323D;
+	
+
+	
+}
+
+ol > li:hover
+{
+	background-color: #B6818F;
+	
+}
+
+ol>li:hover>a
+{
+	color: #7B2D42;
+}
+
+ol > li:first-child
+{
+	border-left: 1px dotted #6C323D;
+}
+
+ul a
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+}
+
+ul>li:hover>a
+{
+	color: #80ff80;
+}
+
+.container
+{   width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content
+{   
+	
+	width: 750px;
+	text-align: justify;
+	text-align:center;
+	margin-left: auto;
+	margin-right:auto;
+	border-right: 2px dotted #6C323D;
+	border-left: 2px dotted #6C323D;
+	font-size: 20px;
+	
+	
+}
+
+.tekst
+{
+	width: 700px;
+	text-align: justify;
+	text-align:center;
+	margin-left: auto;
+	margin-right:auto;
+	
+}
+
+.ad 
+{   
+   
+	width: 750px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+	padding: 10px 10px;
+
+	
+}
+
+.pic
+{
+    
+	width: 750px;
+	text-align: center;
+}
+.foto
+{
+	
+	width: 135px;
+    float: left;
+	padding: 26.25px;
+	
+	text-align: center;
+	
+	
+}
+.foto:hover
+{
+	padding: 0;
+	border: 0px dotted #6C323D;
+	
+	
+}
+
+h2 
+{
+	letter-spacing: 2px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.footer
+{
+	font-size: 23; 
+	margin: 0;
+	text-align: center; 
+	background-color: #292929;
+	padding: 10px 0px;
+	margin-bottom: 0;
+	font-family: 'Great Vibes', cursive;
+}
